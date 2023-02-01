@@ -30,5 +30,6 @@ versión oficial?
     * Se guardaron solamente los cambios que hizo uno de los integrantes, los del otro no.
 2. Usando elcomando gitk,¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
     * Luego de usar el comando pull y verificar el historial con gitk, se observó el cambio que ambos de los integrantes del equipo hicieron sobre el archivo.
-### Parte II
-<img src="/LearningBranching1.png" width="50%" height="50%"/>
+### Parte III
+<img src="https://github.com/santiarojas18/CVDS-Lab1/blob/main/santiago/LearningBranching1.PNG" width="50%" height="50%"/>
+<img src="https://github.com/santiarojas18/CVDS-Lab1/blob/main/santiago/LearningBranching1.PNG" width="50%" height="50%"/>
